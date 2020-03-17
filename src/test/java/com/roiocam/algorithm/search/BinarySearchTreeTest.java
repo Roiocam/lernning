@@ -24,8 +24,6 @@ class BinarySearchTreeTest {
         map.put("4", 123);
         map.put("6", 123);
         map.put("8", 123);
-
-
     }
 
     @Test
