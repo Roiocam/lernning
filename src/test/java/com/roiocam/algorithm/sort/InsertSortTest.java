@@ -10,6 +10,6 @@ import org.junit.jupiter.api.Test;
 class InsertSortTest implements FullTests {
     @Test
     public void sortTest() {
-        valid(new SelectSort());
+        valid(new InsertSort());
     }
 }
